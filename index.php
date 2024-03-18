@@ -54,7 +54,13 @@
     echo"the value of 1<=4 is:";
     echo var_dump(1<=4);
     echo "<br>";
-        ?>
+
+    // increment/decrement operators
+    $variable1++;
+    // $variable1--;
+    // ++$variable1;
+    // --$variable1:
+    ?>
     </div>
 </body>
 </html>
