@@ -56,10 +56,22 @@
     echo "<br>";
 
     // increment/decrement operators
-    $variable1++;
-    // $variable1--;
-    // ++$variable1;
-    // --$variable1:
+    echo $variable1++;
+    echo "<br>";
+    echo $variable1;
+
+    // echo $variable1--;
+    // echo "<br>";
+    // echo $variable1;
+
+    // echo ++$variable1;
+    // echo "<br>";
+    // echo $variable1;
+
+    // echo --$variable1:
+    // echo "<br>";
+    // echo $variable1;
+    //
     ?>
     </div>
 </body>
