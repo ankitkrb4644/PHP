@@ -12,8 +12,8 @@
     define('PI',3.14);
     echo"hello world and this is printed using php";
     // variables
-    $variable1 = 37;
-    $variable2 = 47;
+    $variable1 = 3;
+    $variable2 = 7;
     echo $variable1;
     echo $variable2;
     echo "<br>";
